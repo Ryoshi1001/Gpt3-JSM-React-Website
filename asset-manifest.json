@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Gpt3-JSM-React-Website/static/css/main.1dea7421.css",
+    "main.js": "/Gpt3-JSM-React-Website/static/js/main.480ebbc2.js",
+    "static/media/Header Illustration.png": "/Gpt3-JSM-React-Website/static/media/Header Illustration.66dfe16db5bfe9765ca4.png",
+    "static/media/possibility.png": "/Gpt3-JSM-React-Website/static/media/possibility.1502d596d0a45cf91652.png",
+    "static/media/gridimg1.png": "/Gpt3-JSM-React-Website/static/media/gridimg1.b8c594107c0678715afa.png",
+    "static/media/gridimg3.png": "/Gpt3-JSM-React-Website/static/media/gridimg3.09c400fc78c96e4ff788.png",
+    "static/media/gridimg4.png": "/Gpt3-JSM-React-Website/static/media/gridimg4.beb41199f58f7cf27240.png",
+    "static/media/gridimg5.png": "/Gpt3-JSM-React-Website/static/media/gridimg5.72041c450fbe88e59333.png",
+    "static/media/gridimg2.png": "/Gpt3-JSM-React-Website/static/media/gridimg2.4575fb47b66fd76940b0.png",
+    "static/media/people.png": "/Gpt3-JSM-React-Website/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/dropbox.png": "/Gpt3-JSM-React-Website/static/media/dropbox.74056b966ce8bd5829b6.png",
+    "static/media/atlassian.png": "/Gpt3-JSM-React-Website/static/media/atlassian.b300970d4dad69eef066.png",
+    "index.html": "/Gpt3-JSM-React-Website/index.html",
+    "main.1dea7421.css.map": "/Gpt3-JSM-React-Website/static/css/main.1dea7421.css.map",
+    "main.480ebbc2.js.map": "/Gpt3-JSM-React-Website/static/js/main.480ebbc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dea7421.css",
+    "static/js/main.480ebbc2.js"
+  ]
+}
