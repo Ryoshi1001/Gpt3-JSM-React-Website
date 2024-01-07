@@ -1,5 +1,4 @@
-Live site: [
-](https://ryoshi1001.github.io/Gpt3-JSM-React-Website/)
+Live site: [(https://ryoshi1001.github.io/Gpt3-JSM-React-Website/)]
 
 Built with: 
 
